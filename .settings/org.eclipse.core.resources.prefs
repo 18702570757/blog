@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//WebContent/about.jsp=UTF-8
+encoding//WebContent/admin/article-add.jsp=UTF-8
+encoding//WebContent/admin/feedback-list.jsp=UTF-8
+encoding//WebContent/learn.jsp=UTF-8
+encoding//src/com/blog/controller/FileUploadServlet.java=UTF-8
+encoding//src/com/blog/entity/Article.java=UTF-8
+encoding//src/com/blog/utils/DBUtil.java=UTF-8
